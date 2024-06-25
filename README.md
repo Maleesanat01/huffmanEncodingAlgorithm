@@ -20,3 +20,7 @@ Note: This algorithm was implemented with all data structures hard-coded (no in-
 ## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+## Authors
+
+- **Maleesa Hettiarachchi** - *Computer Science undergrad* - [Maleesa Hettiarachchi](https://github.com/Maleesanat01/)
