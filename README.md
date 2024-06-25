@@ -1,9 +1,10 @@
 # Huffman encoding algorithm
 
 ## Introduction
-This repository consists of a Huffman encoding algorithm built using java, OOP and suitable data structures
-Where the user is able to input a message, and the algorithm will display the encoded message to the user
-This algorithm was implemented with all data structures hard-coded (no in-built libraries used)
+This repository consists of a Huffman encoding algorithm built using java, OOP and suitable data structures. 
+Where the user is able to input a message, and the algorithm will display the encoded message to the user.
+
+Note: This algorithm was implemented with all data structures hard-coded (no in-built libraries used)
 
 ### How it works
 - User is able to input a message
